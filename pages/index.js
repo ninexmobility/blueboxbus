@@ -17,7 +17,7 @@ export default function Home() {
         </p>{" "}
         <div className={styles.grid}>
           <a href="/tardis" className={styles.card}>
-            <h3> Our T.A.R.D.I.S. & rarr; </h3>{" "}
+            <h3> Our T.A.R.D.I.S. </h3>{" "}
             <p>
               {" "}
               Time And Relative Dimension In Space(TARDIS) Where my whovians at
@@ -25,17 +25,17 @@ export default function Home() {
             </p>{" "}
           </a>{" "}
           <a href="/companions" className={styles.card}>
-            <h3> Companions & rarr; </h3>{" "}
+            <h3> Companions </h3>{" "}
             <p>
               {" "}
               2 Parents, 3 Kids, 2 Dogs, 1 Cat, 2 Geckos & 2 Snakes... in a bus.{" "}
             </p>{" "}
           </a>{" "}
           <a href="/console" className={styles.card}>
-            <h3> Console & rarr; </h3> <p> Under construction. </p>{" "}
+            <h3> Console </h3> <p> Under construction. </p>{" "}
           </a>{" "}
           <a href="/blog" className={styles.card}>
-            <h3> Blog & rarr; </h3>{" "}
+            <h3> Blog </h3>{" "}
             <p>
               {" "}
               Follow along on our crazy, wild ride through time and space!{" "}
