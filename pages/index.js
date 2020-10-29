@@ -46,8 +46,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Copyright &copy; &nbsp;{" "}
-          <a href="https://ninexmobility.com">ninexmobility </a> &nbsp; |
-          Powered by{" "}
+          <a href="https://ninexmobility.com" target="_blank">
+            ninexmobility{" "}
+          </a>{" "}
+          &nbsp; | Powered by{" "}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />{" "}
         </a>{" "}
       </footer>{" "}
