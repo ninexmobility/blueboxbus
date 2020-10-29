@@ -28,7 +28,7 @@ export default function Home() {
             </p>{" "}
           </a>{" "}
           <a href="/console" className={styles.card}>
-            <h3> Console </h3> <p> Under construction. </p>{" "}
+            <h3> Console </h3> <p> Beep, boop, beep... Under construction. </p>{" "}
           </a>{" "}
           <a href="/blog" className={styles.card}>
             <h3> Blog </h3>{" "}
