@@ -18,11 +18,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="/tardis" className={styles.card}>
             <h3> Our T.A.R.D.I.S. </h3>{" "}
-            <p>
-              {" "}
-              Time And Relative Dimension In Space(TARDIS) Where my whovians at
-              ? .{" "}
-            </p>{" "}
+            <p> Time And Relative Dimension In Space. </p>{" "}
           </a>{" "}
           <a href="/companions" className={styles.card}>
             <h3> Companions </h3>{" "}
